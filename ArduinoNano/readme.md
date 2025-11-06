@@ -26,6 +26,11 @@ Inclui:
 Fornecer códigos de exemplo e testes para projetos que exigem tamanho reduzido e simplicidade de montagem utilizando o **Arduino Nano**.
 
 ---
+---
+
+<p align="center">
+  <img src="img/nano.jpeg" alt="Projeto com Arduino nano" width="400">
+</p>
 
 📄 *Autor: Izaias Neri*  
 📅 *Última atualização: novembro de 2025*
