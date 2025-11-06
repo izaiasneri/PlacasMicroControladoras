@@ -26,7 +26,7 @@ Explorar as capacidades da **Raspberry Pi Pico W** em aplicações de automaçã
 ---
 
 <p align="center">
-  <img src="img/picoW.jpg" alt="Projeto com Raspberry Pi Pico W" width="400">
+  <img src="img/picoW.png" alt="Projeto com Raspberry Pi Pico W" width="400">
 </p>
 
 📄 *Autor: Izaias Neri*  
