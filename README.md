@@ -1,3 +1,45 @@
+# 💡 Placas Microcontroladoras
+
+Este repositório contém códigos e exemplos de projetos desenvolvidos com diferentes placas microcontroladoras amplamente utilizadas em eletrônica, automação e Internet das Coisas (IoT).
+
+---
+
+## 📘 Conteúdo
+
+Os diretórios e arquivos incluem projetos e testes práticos com as seguintes placas:
+
+- **ESP32**
+- **ESP8266 (NodeMCU)**
+- **Raspberry Pi Pico W**
+- **Arduino Nano**
+- **Arduino Uno**
+- **Arduino Mega**
+
+Cada pasta contém códigos, esquemas de ligação e comentários que explicam o funcionamento de cada projeto.
+
+---
+
+## ⚙️ Objetivo
+
+Reunir e documentar exemplos funcionais que sirvam como base de estudo e desenvolvimento para aplicações de **automação, controle e conectividade** utilizando microcontroladores.
+
+---
+
+## 🧠 Tópicos abordados
+
+- Comunicação Wi-Fi e Bluetooth  
+- Controle de motores DC e servos  
+- Leitura de sensores analógicos e digitais  
+- Criação de servidores web embarcados  
+- Controle via HTML e navegador  
+- Integração com displays e periféricos  
+- Projetos práticos de IoT e robótica  
+
+---
+
+## 🧩 Estrutura sugerida
+
+
 
 Cada diretório possui seus respectivos códigos-fonte, esquemas de ligação e instruções específicas de uso.
 
