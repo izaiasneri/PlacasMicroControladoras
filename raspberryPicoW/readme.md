@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Logo Raspberry Pi" width="80">
+</p>
+
 # 🧩 Projetos com Raspberry Pi Pico W
 
 Esta pasta reúne exemplos e experimentos realizados com a **Raspberry Pi Pico W**, uma placa compacta e poderosa com conectividade Wi-Fi integrada.
@@ -20,6 +24,10 @@ Inclui:
 Explorar as capacidades da **Raspberry Pi Pico W** em aplicações de automação, aprendizado e IoT, utilizando a linguagem **MicroPython**.
 
 ---
+
+<p align="center">
+  <img src="../Imagens/picow.jpg" alt="Projeto com Raspberry Pi Pico W" width="400">
+</p>
 
 📄 *Autor: Izaias Neri*  
 📅 *Última atualização: novembro de 2025*
