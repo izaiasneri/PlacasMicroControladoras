@@ -26,7 +26,7 @@ Explorar os recursos do **Arduino Uno** para criação de **veículos robóticos
 ---
 
 <p align="center">
-  <img src="../Imagens/uno.jpg" alt="Projeto com Arduino Uno" width="400">
+  <img src="Imagens/uno.jpg" alt="Projeto com Arduino Uno" width="400">
 </p>
 
 📄 *Autor: Izaias Neri*  
