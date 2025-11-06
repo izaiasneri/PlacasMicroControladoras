@@ -1,6 +1,9 @@
+![Logo do Arduino](https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg)
+
 # 🔧 Projetos com Arduino Nano
 
 Esta pasta contém exemplos e experimentos realizados com o **Arduino Nano**, ideal para projetos compactos e de baixo consumo.
+
 
 ## 📘 Conteúdo
 
