@@ -1,8 +1,6 @@
 <p align = "center"> 
   <img src = "./img/esp-logo.jpg" width = "400"/>
 </p>
-
-
 # 🧠 Projetos com ESP8266 (NodeMCU)
 
 Esta pasta reúne códigos e exemplos práticos desenvolvidos para a placa **ESP8266**, também conhecida como **NodeMCU**.  
@@ -29,7 +27,7 @@ Servir como base de estudo e desenvolvimento para projetos conectados utilizando
 ---
 
 <p align ="center">
-  <img src = "img/nodeMCU.jpg" width = "400" />
+  <img src = "./img/nodeMCU.jpg" width = "400" />
 </p>
 
 
