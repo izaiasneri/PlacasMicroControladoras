@@ -1,4 +1,4 @@
-<p align="center"> <img src = "./Imagens/arduino-hd-logo.png" width = "400" /> </p>
+<p align="center"> <img src = "./Imagens/arduino-hd-logo.png" width = "200" /> </p>
 
 # ⚡ Projetos com Arduino Uno
 
