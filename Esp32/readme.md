@@ -1,5 +1,5 @@
 <p>
-  <img src="./img/esp32.jpg" />
+  <img src="./img/esp32.jpg" width = 100 />
 </p>
 
 
