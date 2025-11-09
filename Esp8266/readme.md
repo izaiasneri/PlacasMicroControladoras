@@ -28,5 +28,12 @@ Servir como base de estudo e desenvolvimento para projetos conectados utilizando
 
 ---
 
+<p align ="center">
+  <img src = "img/nodeMCU.jpg" width = "400" />
+</p>
+
+
+
+---
 📄 *Autor: Izaias Neri*  
 📅 *Última atualização: novembro de 2025*
