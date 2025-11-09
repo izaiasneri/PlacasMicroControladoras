@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./img/esp32.jpg" width = "400" />
+</p>
+
+
 # ⚙️ Projetos com ESP32
 
 Esta pasta contém exemplos e projetos desenvolvidos para a placa **ESP32**, explorando suas capacidades de processamento, conectividade e controle de periféricos.
