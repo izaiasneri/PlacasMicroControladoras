@@ -27,6 +27,11 @@ Inclui:
 Servir como referência e base de estudo para criação de sistemas conectados e automações com **ESP32**.
 
 ---
+<p align="center">
+  <img src="./img/esp32_placa.jpg" width = "400" />
+</p>
+
+
 
 📄 *Autor: Izaias Neri*  
 📅 *Última atualização: novembro de 2025*
