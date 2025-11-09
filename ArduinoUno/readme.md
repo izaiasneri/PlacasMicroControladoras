@@ -1,3 +1,5 @@
+<p align="center"> <img src = "./img/arduino-hd-logo.png" width = "400" /> </p>
+
 # ⚡ Projetos com Arduino Uno
 
 Esta pasta contém exemplos e projetos desenvolvidos com a placa **Arduino Uno**, explorando aplicações práticas com **motores DC**, **pontes H** e outros componentes de automação.
