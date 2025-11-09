@@ -27,7 +27,7 @@ Servir como base de estudo e desenvolvimento para projetos conectados utilizando
 ---
 
 <p align ="center">
-  <img src = "./img/nodeMCU.jpg" width = "400" />
+  <img src = "./img/NodeMCU.jpg" width = "400" />
 </p>
 
 
